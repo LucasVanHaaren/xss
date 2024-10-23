@@ -1,1 +1,1 @@
-console.log("sucessfully triggered XSS");
+alert("XSS");
